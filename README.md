@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simulation game where a player selects cities and vehicles for cops to capture a fugitive. The game is built using Vue.js for the frontend and Node.js for the backend. The frontend provides an interactive interface for selecting cities and vehicles, while the backend handles the logic for simulating the fugitive's location and the cops' pursuit.
+This is a simulation game where a player selects cities and vehicles for cops to capture a fugitive. The game is built using react.js for the frontend and Node.js for the backend. The frontend provides an interactive interface for selecting cities and vehicles, while the backend handles the logic for simulating the fugitive's location and the cops' pursuit.
 
 ## Assumptions
 
@@ -29,6 +29,6 @@ This is a simulation game where a player selects cities and vehicles for cops to
 
 3. **Start the backend server**:
     ```sh
-    node .\server.js
+    nodemon server.js
     ```
     The backend server will start on `http://localhost:5000`.
