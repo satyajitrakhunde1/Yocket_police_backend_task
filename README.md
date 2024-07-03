@@ -19,7 +19,7 @@ This is a simulation game where a player selects cities and vehicles for cops to
 
 1. **Navigate to the backend directory**:
     ```sh
-    cd backend
+    cd SERVER
     ```
 
 2. **Install dependencies**:
