@@ -31,4 +31,4 @@ This is a simulation game where a player selects cities and vehicles for cops to
     ```sh
     nodemon server.js
     ```
-    The backend server will start on `http://localhost:5000`.
+    The backend server will start on `http://localhost:5000`. also API is deployed on `https://yocket-police-backend-task.onrender.com`
